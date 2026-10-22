@@ -3,7 +3,7 @@ I struggled balancing the visual novel style with the walking around to incorper
 The 2Dish GameObject in the center of the room gave me a lot of issues with getting it to turn properly, getting the images to show up on the material, or getting events to trigger.
 Next time I would make the carrying system more elegant. While carrying objects you can clip them through walls or fly when you look downwards.
 
-Itch: 
+Itch: https://gavand13.itch.io/suckered-in
 
 Assests:
 
