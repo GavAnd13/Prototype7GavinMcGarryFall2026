@@ -1,3 +1,6 @@
+This was my first time incorperating this many visual assets while also my first time really engaging with the audio system and I think both turned out well.
+I struggled balancing the visual novel style with the walking around to incorperate spatial audio and am still not fully satisfied with the balance.
+The 2Dish GameObject in the center of the room gave me a lot of issues with getting it to turn properly, getting the images to show up on the material, or getting events to trigger.
 Next time I would make the carrying system more elegant. While carrying objects you can clip them through walls or fly when you look downwards.
 
 Assests:
